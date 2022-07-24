@@ -1,0 +1,25 @@
+.row{
+    flex-wrap: nowrap;
+}
+.text-center>button{
+    background-color: #F496D1;
+    opacity: 30%;
+}
+footer{
+
+    color: aliceblue;
+    
+    background-color: rgb(10, 20, 17);
+}
+.f-left{
+    color: rgb(248, 232, 232);
+    
+}
+.f-right{
+    display: grid;
+    grid-template-columns:1fr ;
+    align-items: center;
+    justify-items: center;
+  
+    grid-row-gap: 50px;
+}
